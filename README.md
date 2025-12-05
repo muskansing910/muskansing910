@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muskansing910
 - 👀 I’m interested in software development...
-- 🌱 I’m currently learning java...
+  
 
 
 <!---
